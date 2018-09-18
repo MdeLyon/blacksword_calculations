@@ -1,2 +1,2 @@
-# blacksword_calculations
+# Blacksword Calcuations
 Scripts for Calculating Blacksword Results
